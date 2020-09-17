@@ -6,7 +6,8 @@
     - prompts server with warnings about potential brute-force attacks
     - allows to set routines activated by activities set as "red flags"
 ## The maybies
-    - is split in user part and server which would not sacrifice performance unless someone is breaking rules (well they deserved it i guess)
+    - is split in user part and server which would not sacrifice performance,  
+      unless someone is breaking rules (well they deserved it i guess)
     - returns warning to the user side about rules he is about to break
     - handles server side "emergency protocols"
         - allows to set personalized "emergency protocols"
